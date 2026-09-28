@@ -1,0 +1,4 @@
+# Inside Airbnb scraped downloads & compressed datasets
+data/asheville_airbnb/
+*.csv.gz
+*.geojson
